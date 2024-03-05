@@ -1,9 +1,9 @@
 /*Deja los creditos no seas rata!
 
  Credits to:
-* AzamiJs
-* Elrebelde21
-* GataNina-Li */
+* 𝓜𝓲𝓵𝓪
+* 𝓒𝓱𝓲𝓷𝔁
+* 𝓜𝓲𝓵𝓪𝓬𝓱𝓲𝓷 🎀 */
 
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
